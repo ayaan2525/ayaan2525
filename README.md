@@ -1,7 +1,7 @@
-<h1 align="center">Ayaan Ahmad Siddiqui</h1>
-<h3 align="center">
+<h2 align="center">Ayaan Ahmad Siddiqui</h2>
+<h4 align="center">
 Backend Engineer | Cloud & DevOps | MSc Web & Data Science
-</h3>
+</h4>
 
 <p align="center">
   <a href="https://github.com/ayaan2525">
@@ -14,7 +14,7 @@ Backend Engineer | Cloud & DevOps | MSc Web & Data Science
 
 ---
 
-## 👋 About
+### 👋 About
 
 Software engineer with experience building **production systems**, **data pipelines**, and **cloud automation**.  
 I enjoy working close to infrastructure, improving system reliability, and simplifying developer workflows.
@@ -23,7 +23,7 @@ Currently based in **Germany** and pursuing a Master’s in **Web & Data Science
 
 ---
 
-## 🧰 What I Work With
+### 🧰 What I Work With
 
 - **Backend:** Python, FastAPI
 - **Cloud & DevOps:** Azure, Docker, Terraform, GitHub Actions
@@ -35,7 +35,7 @@ Currently based in **Germany** and pursuing a Master’s in **Web & Data Science
 
 ---
 
-## 📌 Current Interests
+### 📌 Current Interests
 
 - Backend system design & scalability  
 - Cloud infrastructure as code  
@@ -44,7 +44,7 @@ Currently based in **Germany** and pursuing a Master’s in **Web & Data Science
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
