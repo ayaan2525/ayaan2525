@@ -16,7 +16,7 @@ Backend Engineer | Cloud & DevOps | MSc Web & Data Science
 
 ## 👋 About
 
-Backend-focused software engineer with experience building **production systems**, **data pipelines**, and **cloud automation**.  
+Software engineer with experience building **production systems**, **data pipelines**, and **cloud automation**.  
 I enjoy working close to infrastructure, improving system reliability, and simplifying developer workflows.
 
 Currently based in **Germany** and pursuing a Master’s in **Web & Data Science**.
@@ -25,19 +25,11 @@ Currently based in **Germany** and pursuing a Master’s in **Web & Data Science
 
 ## 🧰 What I Work With
 
-- **Backend:** Python, REST APIs, FastAPI, Flask  
-- **Cloud & DevOps:** Azure, Docker, Terraform, GitHub Actions  
-- **Data & Systems:** SQL, Kafka, Linux, CI/CD  
+- **Backend:** Python, FastAPI
+- **Cloud & DevOps:** Azure, Docker, Terraform, GitHub Actions
 - **Engineering:** System design, automation, performance optimization
 
 ---
-
-## 🔍 What You’ll Find on My GitHub
-
-- Backend & API prototypes  
-- Infrastructure & automation experiments  
-- Data processing and system tooling  
-- University & research projects (Web, Data, AI)
 
 > Most repositories focus on **clean code, reproducibility, and real-world constraints**.
 
@@ -54,9 +46,17 @@ Currently based in **Germany** and pursuing a Master’s in **Web & Data Science
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan2525&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-stats-cyyin.vercel.app/api?username=ayaan2525&show_icons=true&count_private=true&hide_title=true)
 
+</div>
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan2525&layout=compact)
+
+</div>
 
 ---
 
