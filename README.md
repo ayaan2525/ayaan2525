@@ -54,9 +54,9 @@ Currently based in **Germany** and pursuing a Master’s in **Web & Data Science
 
 ## 📊 GitHub Stats
 
-![Ayaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaan2525&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan2525&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan2525&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ---
 
