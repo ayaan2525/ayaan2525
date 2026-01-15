@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Ayaan Ahmad Siddiqui</h1>
+<h3 align="center">
+Backend Engineer | Cloud & DevOps | MSc Web & Data Science
+</h3>
 
-<!--
-**ayaan2525/ayaan2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/ayaan2525">
+    <img src="https://img.shields.io/badge/GitHub-ayaan2525-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayaan-ahmad-siddiqui-499a1113b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayaan%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About
+
+Backend-focused software engineer with experience building **production systems**, **data pipelines**, and **cloud automation**.  
+I enjoy working close to infrastructure, improving system reliability, and simplifying developer workflows.
+
+Currently based in **Germany** and pursuing a Master’s in **Web & Data Science**.
+
+---
+
+## 🧰 What I Work With
+
+- **Backend:** Python, REST APIs, FastAPI, Flask  
+- **Cloud & DevOps:** Azure, Docker, Terraform, GitHub Actions  
+- **Data & Systems:** SQL, Kafka, Linux, CI/CD  
+- **Engineering:** System design, automation, performance optimization
+
+---
+
+## 🔍 What You’ll Find on My GitHub
+
+- Backend & API prototypes  
+- Infrastructure & automation experiments  
+- Data processing and system tooling  
+- University & research projects (Web, Data, AI)
+
+> Most repositories focus on **clean code, reproducibility, and real-world constraints**.
+
+---
+
+## 📌 Current Interests
+
+- Backend system design & scalability  
+- Cloud infrastructure as code  
+- Developer tooling & automation  
+- LLMs, prompt engineering, and AI safety
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaan2525&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaan2525&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+📫 **Contact:** ayaan.siddiqui2525@gmail.com  
+📍 **Location:** Germany
